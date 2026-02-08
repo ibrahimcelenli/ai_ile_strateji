@@ -2,7 +2,7 @@
 
 AI, teknoloji ve iş stratejisi kesişiminde; raporlar, araştırmalar ve güncel gelişmelerden içgörüler.
 
-![AI ile Strateji Kapak](cover.png)
+<img src="cover.png" alt="AI ile Strateji Kapak" width="500" height="500">
 
 ## Podcast Linkleri
 - 🎧 Spotify: <SPOTIFY_LINK>
